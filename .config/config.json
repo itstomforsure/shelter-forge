@@ -1,0 +1,17 @@
+{
+  "app": {
+    "interfaces": {
+      "controllers": {},
+      "hubs": {},
+      "repositories": {}
+    }
+  },
+  "controllers": {},
+  "db": {},
+  "hubs": {},
+  "middlawares": {},
+  "models": {},
+  "repositories": {},
+  "routes": {},
+  "utils": {}
+}
